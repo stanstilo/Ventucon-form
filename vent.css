@@ -101,6 +101,7 @@ a{
   margin-top: 40px ;
   background: transparent;
   position:fixed;
+    margin-left:-5%;
 }
 @media screen and (max-width: 992px){
   #bar_nav{
